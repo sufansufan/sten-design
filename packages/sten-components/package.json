@@ -11,5 +11,6 @@
   "dependencies": {
     "@sten-design/icons": "^1.0.1",
     "@sten-design/themes": "^1.0.1"
-  }
+  },
+  "gitHead": "fef84baf4058daaa2c4669ae1325a6ee6210ddd7"
 }
